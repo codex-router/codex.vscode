@@ -1,1 +1,1 @@
-# Codex Extension for VS Code
+# Codex Extension for VSCode
