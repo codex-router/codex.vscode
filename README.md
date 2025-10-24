@@ -2,4 +2,4 @@
 
 ## Reference
 
-[Claude Code Chat](https://github.com/andrepimenta/claude-code-chat)
+[claude-code-chat](https://github.com/andrepimenta/claude-code-chat)
